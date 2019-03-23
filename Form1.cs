@@ -90,5 +90,22 @@ namespace Bareme_Suisse
             }
 
         }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            tbxPointsObtenus.Clear();
+            tbxPointsTotaux.Clear();
+            lblNote.Text = "Note :";
+            lblNote15.Text = "Points pour avoir 1.5 :";
+            lblNote2.Text = "Points pour avoir 2 :";
+            lblNote25.Text = "Points pour avoir 2.5 :";
+            lblNote3.Text = "Points pour avoir 3 :";
+            lblNote35.Text = "Points pour avoir 3.5 :";
+            lblNote4.Text = "Points pour avoir 4 :";
+            lblNote45.Text = "Points pour avoir 4.5 :";
+            lblNote5.Text = "Points pour avoir 5 :";
+            lblNote55.Text = "Points pour avoir 5.5 :";
+            lblNote6.Text = "Points pour avoir 6 :";
+        }
     }
 }

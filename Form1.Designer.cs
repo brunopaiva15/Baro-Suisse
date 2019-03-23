@@ -49,6 +49,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.btnDelete = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -98,7 +99,7 @@
             // 
             this.btnCalculer.Location = new System.Drawing.Point(13, 137);
             this.btnCalculer.Name = "btnCalculer";
-            this.btnCalculer.Size = new System.Drawing.Size(201, 23);
+            this.btnCalculer.Size = new System.Drawing.Size(137, 23);
             this.btnCalculer.TabIndex = 5;
             this.btnCalculer.Text = "Calculer";
             this.btnCalculer.UseVisualStyleBackColor = true;
@@ -242,11 +243,22 @@
             this.label5.TabIndex = 19;
             this.label5.Text = "© Copyright Bruno Paiva. Tous droits réservés.";
             // 
+            // btnDelete
+            // 
+            this.btnDelete.Location = new System.Drawing.Point(156, 137);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.Size = new System.Drawing.Size(58, 23);
+            this.btnDelete.TabIndex = 20;
+            this.btnDelete.Text = "Effacer";
+            this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(235, 489);
+            this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.pictureBox1);
@@ -301,6 +313,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button btnDelete;
     }
 }
 
