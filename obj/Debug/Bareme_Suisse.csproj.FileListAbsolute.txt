@@ -1,0 +1,40 @@
+D:\default\Documents\Projets\Bareme_Suisse\bin\Debug\Bareme_Suisse.exe.config
+D:\default\Documents\Projets\Bareme_Suisse\bin\Debug\Bareme_Suisse.exe
+D:\default\Documents\Projets\Bareme_Suisse\bin\Debug\Bareme_Suisse.pdb
+D:\default\Documents\Projets\Bareme_Suisse\obj\Debug\Bareme_Suisse.csprojAssemblyReference.cache
+D:\default\Documents\Projets\Bareme_Suisse\obj\Debug\Bareme_Suisse.Form1.resources
+D:\default\Documents\Projets\Bareme_Suisse\obj\Debug\Bareme_Suisse.Properties.Resources.resources
+D:\default\Documents\Projets\Bareme_Suisse\obj\Debug\Bareme_Suisse.csproj.GenerateResource.cache
+D:\default\Documents\Projets\Bareme_Suisse\obj\Debug\Bareme_Suisse.csproj.CoreCompileInputs.cache
+D:\default\Documents\Projets\Bareme_Suisse\obj\Debug\Bareme_Suisse.exe
+D:\default\Documents\Projets\Bareme_Suisse\obj\Debug\Bareme_Suisse.pdb
+C:\Users\Bruno\Documents\Bareme_Suisse\bin\Debug\Bareme_Suisse.exe.config
+C:\Users\Bruno\Documents\Bareme_Suisse\bin\Debug\Bareme_Suisse.exe
+C:\Users\Bruno\Documents\Bareme_Suisse\bin\Debug\Bareme_Suisse.pdb
+C:\Users\Bruno\Documents\Bareme_Suisse\obj\Debug\Bareme_Suisse.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Bareme_Suisse\obj\Debug\Bareme_Suisse.Form1.resources
+C:\Users\Bruno\Documents\Bareme_Suisse\obj\Debug\Bareme_Suisse.Properties.Resources.resources
+C:\Users\Bruno\Documents\Bareme_Suisse\obj\Debug\Bareme_Suisse.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Bareme_Suisse\obj\Debug\Bareme_Suisse.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Bareme_Suisse\obj\Debug\Bareme_Suisse.exe
+C:\Users\Bruno\Documents\Bareme_Suisse\obj\Debug\Bareme_Suisse.pdb
+G:\Fichiers utiles\Bareme_Suisse\bin\Debug\Bareme_Suisse.exe.config
+G:\Fichiers utiles\Bareme_Suisse\bin\Debug\Bareme_Suisse.exe
+G:\Fichiers utiles\Bareme_Suisse\bin\Debug\Bareme_Suisse.pdb
+G:\Fichiers utiles\Bareme_Suisse\obj\Debug\Bareme_Suisse.csprojAssemblyReference.cache
+G:\Fichiers utiles\Bareme_Suisse\obj\Debug\Bareme_Suisse.Form1.resources
+G:\Fichiers utiles\Bareme_Suisse\obj\Debug\Bareme_Suisse.Properties.Resources.resources
+G:\Fichiers utiles\Bareme_Suisse\obj\Debug\Bareme_Suisse.csproj.GenerateResource.cache
+G:\Fichiers utiles\Bareme_Suisse\obj\Debug\Bareme_Suisse.csproj.CoreCompileInputs.cache
+G:\Fichiers utiles\Bareme_Suisse\obj\Debug\Bareme_Suisse.exe
+G:\Fichiers utiles\Bareme_Suisse\obj\Debug\Bareme_Suisse.pdb
+G:\Fichiers utiles\Bareme_Suisse_GIT\bin\Debug\Bareme_Suisse.exe.config
+G:\Fichiers utiles\Bareme_Suisse_GIT\bin\Debug\Bareme_Suisse.exe
+G:\Fichiers utiles\Bareme_Suisse_GIT\bin\Debug\Bareme_Suisse.pdb
+G:\Fichiers utiles\Bareme_Suisse_GIT\obj\Debug\Bareme_Suisse.csprojAssemblyReference.cache
+G:\Fichiers utiles\Bareme_Suisse_GIT\obj\Debug\Bareme_Suisse.Form1.resources
+G:\Fichiers utiles\Bareme_Suisse_GIT\obj\Debug\Bareme_Suisse.Properties.Resources.resources
+G:\Fichiers utiles\Bareme_Suisse_GIT\obj\Debug\Bareme_Suisse.csproj.GenerateResource.cache
+G:\Fichiers utiles\Bareme_Suisse_GIT\obj\Debug\Bareme_Suisse.csproj.CoreCompileInputs.cache
+G:\Fichiers utiles\Bareme_Suisse_GIT\obj\Debug\Bareme_Suisse.exe
+G:\Fichiers utiles\Bareme_Suisse_GIT\obj\Debug\Bareme_Suisse.pdb
