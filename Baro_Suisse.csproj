@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9FD2B926-2879-4478-A535-5BC4D9205E23}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Bareme_Suisse</RootNamespace>
-    <AssemblyName>Bareme_Suisse</AssemblyName>
+    <RootNamespace>Baro_Suisse</RootNamespace>
+    <AssemblyName>Baro_Suisse</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

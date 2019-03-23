@@ -1,4 +1,4 @@
-﻿namespace Bareme_Suisse
+﻿namespace Baro_Suisse
 {
     partial class Form1
     {
@@ -217,7 +217,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Bareme_Suisse.Properties.Resources.Logo_Bareme;
+            this.pictureBox1.Image = global::Baro_Suisse.Properties.Resources.Logo_Bareme;
             this.pictureBox1.Location = new System.Drawing.Point(160, 11);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(29, 28);

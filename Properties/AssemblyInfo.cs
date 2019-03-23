@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("Bareme_Suisse")]
+[assembly: AssemblyTitle("Baro_Suisse")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Bareme_Suisse")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("Baro_Suisse")]
+[assembly: AssemblyCopyright("© Copyright Bruno Paiva. Tous droits réservés.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

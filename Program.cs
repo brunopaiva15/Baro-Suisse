@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Bareme_Suisse
+namespace Baro_Suisse
 {
     static class Program
     {
