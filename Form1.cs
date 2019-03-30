@@ -1,13 +1,6 @@
 ﻿// © Copyright Bruno Paiva. Tous droits réservés.
 
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Baro_Suisse
@@ -25,6 +18,8 @@ namespace Baro_Suisse
             {
                 tbxPointsObtenus.Text = tbxPointsObtenus.Text.Replace('.', ',');
                 tbxPointsTotaux.Text = tbxPointsTotaux.Text.Replace('.', ',');
+                tbxPointsObtenus.Text = tbxPointsObtenus.Text.Replace("-", "");
+                tbxPointsTotaux.Text = tbxPointsTotaux.Text.Replace("-", "");
                 double dblResultatFinal = Math.Round(((Convert.ToDouble(tbxPointsObtenus.Text) / Convert.ToDouble(tbxPointsTotaux.Text)) * 5 + 1) * 2, MidpointRounding.AwayFromZero) / 2;
                 double dblResultatFinalPrecis = Math.Round((Convert.ToDouble(tbxPointsObtenus.Text) / Convert.ToDouble(tbxPointsTotaux.Text)) * 5 + 1, 2);
 
@@ -36,14 +31,7 @@ namespace Baro_Suisse
                     }
                     else
                     {
-                        if (Convert.ToDouble(tbxPointsObtenus.Text) == 1)
-                        {
-                            lblNote.Text = $"Note : 1 (1)";
-                        }
-                        else
-                        {
-                            lblNote.Text = $"Note : {dblResultatFinal} ({dblResultatFinalPrecis})";
-                        }
+                        lblNote.Text = $"Note : {dblResultatFinal} ({dblResultatFinalPrecis})";
                     }
                 }
                 else
