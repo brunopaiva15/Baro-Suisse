@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/brunopaiva15/baro-suisse/badge)](https://www.codefactor.io/repository/github/brunopaiva15/baro-suisse)
+
 # Baro-Suisse
 
 Baro'Suisse is a small utility completely free but very useful. He will calculate your grade on the Swiss federal scale, and display the grade table from 1.5 to 6, giving you the opportunity to see the points you needed to obtain for a specific score. 
